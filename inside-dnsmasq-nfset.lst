@@ -769,3 +769,4 @@ nftset=/k1-api.wbagora.com/4#inet#fw4#vpn_domains
 nftset=/prod-network-api.wbagora.com/4#inet#fw4#vpn_domains
 nftset=/account.wbgames.com/4#inet#fw4#vpn_domains
 nftset=/metallica-api.wbagora.com/4#inet#fw4#vpn_domains
+nftset=/themoviedb.org/4#inet#fw4#vpn_domains
