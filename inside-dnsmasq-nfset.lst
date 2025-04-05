@@ -158,3 +158,4 @@ nftset=/windows.com/4#inet#fw4#vpn_domains
 nftset=/atwola.com/4#inet#fw4#vpn_domains
 nftset=/usertrust.com/4#inet#fw4#vpn_domains
 nftset=/microsoft.com/4#inet#fw4#vpn_domains
+nftset=/cloudflare.com/4#inet#fw4#vpn_domains
